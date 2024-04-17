@@ -14,4 +14,4 @@ Using machine learning algorithms, Movies are recommended according to that
 
 Future scope:-
 
-We can integrate it with website to show the data on front-end.
+We can integrate it with website to show the results on front-end.
